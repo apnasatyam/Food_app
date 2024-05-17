@@ -4,22 +4,22 @@ import ServicesCard from "./ServicesCard";
 
 const servicesData = [
   {
-    img: "/services__1.png",
+    img: "/food.png",
     title: "Professonal Kitchen",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
   },
   {
-    img: "/services__2.png",
+    img: "/delivery.png",
     title: "Delivery",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
   },
   {
-    img: "/services__3.png",
+    img: "/wine.png",
     title: "Wine List",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
   },
   {
-    img: "/services__4.png",
+    img: "/wifi.png",
     title: "Free Wifi",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
   },

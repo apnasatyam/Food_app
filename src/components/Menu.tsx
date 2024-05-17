@@ -8,49 +8,49 @@ const menuData = [
     img: "/cake.avif",
     title: "Delicious Cake",
     desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    price: "₹300.00",
   },
   {
     img: "/pizza.jpg",
     title: "Italian Pizza",
     desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    price: "₹500.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/images.jpg",
+    title: "Indian Parathe",
+    desc: "1 parathe per piece",
+    price: "₹20.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/pani.webp",
+    title: "Indian Pani-puri",
+    desc: "6 piece per plate",
+    price: "₹8.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/kachori.jpg",
+    title: "Kachori",
+    desc: "1 peice per plate",
+    price: "₹30.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/kulcha.webp",
+    title: "Matar Kulcha",
+    desc: "2x peices per plate",
+    price: "₹50.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/dosa.jpg",
+    title: "Dosa",
+    desc: "4piece per plate",
+    price: "₹65.00",
   },
   {
-    img: "/pizza.jpg",
-    title: "Italian Pizza",
-    desc: "2x tuna sahimi, 1x noodles",
-    price: "$29.50",
+    img: "/Kathi_rolls.webp",
+    title: "Kathi_rolls",
+    desc: "3 per piece",
+    price: "₹70.00",
   },
 ];
 
@@ -62,7 +62,7 @@ const Menu = () => {
           Our <span className="text-accent">Menu</span>
         </h2>
         <p className="text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolorem
+        Enjoy a selection of freshly prepared hot and cold food, barista-made drinks, soups, and delicious desserts and snacks from our brand-new menu.
           <br />
           quidem esse eum animi?
         </p>
@@ -84,8 +84,8 @@ const Menu = () => {
       <div className="grid lg:grid-cols-[35%,1fr] gap-10 pt-10">
         <div className="w-fit mx-auto">
           <Image
-            className="w-[100%] max-w-[400px] h-auto"
-            src="/menu_left.png"
+            className="w-[100%] max-w-[400px] h-auto top-10"
+            src="/beautifull.jpg"
             width={500}
             height={500}
             alt="dish"

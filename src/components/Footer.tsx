@@ -37,7 +37,7 @@ const Footer = () => {
       </div>
 
       <div className="w-fit mx-auto pt-16 pb-8 text-[14px] sm:text-[16px]">
-        &copy; Copyright 2023 All rights reserved
+        &copy; Copyright 2024 All rights reserved
       </div>
     </div>
   );

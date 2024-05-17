@@ -22,7 +22,7 @@ const Featured = () => {
         <div className="w-fit mx-auto self-end">
           <Image
             className="w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl"
-            src="/grid__1.png"
+            src="/samosa.webp"
             width={300}
             height={600}
             alt="grid image"
@@ -30,17 +30,16 @@ const Featured = () => {
 
           <div className="space-y-4">
             <Dash />
-            <h2 className="font-medium text-xl">Shrimp Salad</h2>
+            <h2 className="font-medium text-xl">Indian Samosa</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Dignissimos, nesciunt distinctio.
+            A samosa  is a fried central Asian pastry with a savoury filling, including ingredients such as spiced potatoes, onions, peas, meat, or fish.
             </p>
           </div>
         </div>
         <div className="w-fit mx-auto">
           <Image
             className="w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl"
-            src="/grid__2.png"
+            src="/dhokla.JPG"
             width={500}
             height={900}
             alt="grid image"
@@ -48,17 +47,16 @@ const Featured = () => {
 
           <div className="space-y-4">
             <Dash />
-            <h2 className="font-medium text-xl">Baked apples</h2>
+            <h2 className="font-medium text-xl">Dhokla</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Dignissimos, nesciunt distinctio.
+           Dhokla is a savoury sponge dish that is native to the Indian state of Gujarat and parts of adjacent states, and is popular throughout the country.
             </p>
           </div>
         </div>
         <div className="w-fit mx-auto self-end">
           <Image
             className="w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl"
-            src="/grid__3.png"
+            src="/biryani.jpg"
             width={300}
             height={600}
             alt="grid image"
@@ -66,10 +64,9 @@ const Featured = () => {
 
           <div className="space-y-4">
             <Dash />
-            <h2 className="font-medium text-xl">Cherries chicken</h2>
+            <h2 className="font-medium text-xl">Chicken Briyani</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Dignissimos, nesciunt distinctio.
+            Biryani is a mixed rice dish, mainly popular in South Asia. It is made with rice, some type of meat and spices
             </p>
           </div>
         </div>
